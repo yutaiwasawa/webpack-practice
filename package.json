@@ -1,0 +1,12 @@
+{
+  "name": "dev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "yutaiwasawa",
+  "license": "UNLICENSED",
+  "private": true,
+  "devDependencies": {
+    "webpack": "4.41.6",
+    "webpack-cli": "3.3.11"
+  }
+}
