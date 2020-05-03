@@ -1,1 +1,1 @@
-{"version":3,"sources":["webpack:///./src/stylesheets/main.scss"],"names":[],"mappings":"AAAA,KAAK","file":"./stylesheets/main.css","sourcesContent":["body{background:lightblue}\n"],"sourceRoot":""}
+{"version":3,"sources":["webpack:///./src/stylesheets/main.scss","webpack:///./src/javascripts/VueApp.vue"],"names":[],"mappings":"AAAA,KAAK;;ACAL,mBAAmB","file":"./stylesheets/main.css","sourcesContent":["body{background:lightblue}\n","p[data-v-61755dfd]{color:green}\n"],"sourceRoot":""}
