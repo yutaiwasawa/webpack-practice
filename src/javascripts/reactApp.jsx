@@ -7,7 +7,7 @@ const App = (props) => {
   return (
     <div>
       Hello, React App!
-      <Alert message="Success!" />
+      {/* <Alert message="Success!" /> */}
     </div>
   )
 }
